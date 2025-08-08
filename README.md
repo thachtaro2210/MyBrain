@@ -1,6 +1,6 @@
 <div align="center">
 
-
+![alt text](image.png)
   <div>
     <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="vite" />
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
@@ -9,9 +9,7 @@
 
   <h3 align="center">Modern UI/UX website</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube.
-    </div>
+   
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
